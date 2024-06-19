@@ -3,7 +3,7 @@ evenarray=[]
 oddarray=[]
 n=int(input("enter the size of array:"))
 for i in range(0,n):
-  num= int(input("enter array element at {} index".format{i}))
+  num= int(input("enter array element:"))
   array.append(num)
   if i%2==0:
     evenarray.append(array[i])
