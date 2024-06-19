@@ -10,7 +10,7 @@ for i in range(0,n):
   else:
      oddarray.append(array[i])
 evenarray=sorted(evenarray)
-print("the sorted evenarray are:",evenarray[0:len(evenarray]))
+print("the sorted evenarray are:",evenarray[0:len(evenarray)])
 oddarray=sorted(oddarray)
-print("the sorted oddarray are:",oddarray[0:len(oddarray]))
-print("the sum of second highest number is:",evenarray[-2]+oddarray[-2]
+print("the sorted oddarray are:",oddarray[0:len(oddarray)])
+print("the sum of second highest number is:",evenarray[-2]+oddarray[-2])
