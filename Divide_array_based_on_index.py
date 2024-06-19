@@ -1,7 +1,7 @@
 array=[]
 evenarray=[]
 oddarray=[]
-n=int(input("enter the number of array elements to be inserted"))
+n=int(input("enter the size of array:"))
 for i in range(0,n):
   arr= int(input("enter array elements"))
   array.append(arr)
